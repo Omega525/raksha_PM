@@ -1,1 +1,1 @@
-# raksha_PM
+# raksha_PM scenarios of smoke testing ,functional testing 
